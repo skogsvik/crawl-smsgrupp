@@ -7,7 +7,7 @@ verify_ssl = true
 autopep8 = "*"
 
 [packages]
-requests = "*"
+requests = "~=2.25"
 
 [requires]
 python_version = "3.8"
